@@ -6,7 +6,7 @@ function Profile(){
         <div className='content'>
         <img src='https://i.imgur.com/zaLxt6Z.jpg'/>
         <div>
-        ava+descriptions
+        ava+description
       </div>
       <div>
         My posts
